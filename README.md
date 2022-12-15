@@ -68,4 +68,5 @@ A basic prototype will allow you to see what concepts work and which do not. Hav
 
 ## Tools
 [Obsidian](https://obsidian.md/) Notes<br>
-[Milanote](https://milanote.com/inspiration/game-designers) Storyboarding
+[Milanote](https://milanote.com/inspiration/game-designers) storyboarding<br>
+[Trello](https://trello.com/en) Kanban board - project management
