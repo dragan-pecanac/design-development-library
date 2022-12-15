@@ -2,8 +2,10 @@
 The amount of resources available for free are astounding. However, with so many paths to take, tutorials to follow, and books to read it may be intimidating. This "guide" covers the absolute basics of game dev concepts.  
 
 ## Table of Contents
+
 - [Getting Started](#getting-started)
 	- [Unity](#unity)
+	- [C#](#c-sharp)
 - [Game Development](#game-development)
 	- [Design](#design)
 		- [Concept](#concept)
@@ -28,7 +30,10 @@ The amount of resources available for free are astounding. However, with so many
 ## Getting Started 
 ### Unity
 [Unity Learn](https://learn.unity.com/)
-	
+
+### C-Sharp
+[Microsoft Learn](https://learn.microsoft.com/en-us/)
+
 ## Game Development
 ### Design
 Design is the *pre-production* stage of the game development process. No matter how simple the game in mind may be, it is vital to have the general concept mapped out for various reasons. As a beginner, the first thing you should figure out is whether a specific concept, or the entire game, is too complex for you to handle. While getting out of your comfort zone should be the goal, overdoing it may lead to valuable time wasted and losing motivation.
